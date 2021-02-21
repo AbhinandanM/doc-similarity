@@ -8,8 +8,8 @@ Converts two documents to vectors and computes the similarity between those vect
 Similarity is calculated by taking the inner product space that measures the cosine angle between them.
 
 ## Structure-Tree
-'''bash
-tree
+'''sh
+
 doc-similarity
 ├── sample
 │ ├── nowisTheTime.txt
