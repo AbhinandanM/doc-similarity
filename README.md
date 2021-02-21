@@ -24,3 +24,8 @@ doc-similarity
 ├── README.md
 ├── .gitignore
 '''
+'''
+E:.
+├───sample
+└───src
+'''
