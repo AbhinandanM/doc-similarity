@@ -6,3 +6,19 @@ Attempts to quantify the similarity between two documents.
 
 Converts two documents to vectors and computes the similarity between those vectors.
 Similarity is calculated by taking the inner product space that measures the cosine angle between them.
+
+## Structure-Tree
+
+doc-similarity
+├── sample
+│ ├── nowisTheTime.txt
+│ ├── quickBrownFox.txt
+│
+│
+│
+├── src
+│ ├── cos_dist.py
+│ ├── tfidf_cos_dist.py
+|
+├── README.md
+├── .gitignore
